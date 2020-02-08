@@ -25,6 +25,11 @@ Or install it yourself as:
       irb(main):007:0> Rubikame::KamenRiderDouble.new.rider_kick_power
       => 16648.7
 
+      irb(main):002:0> Rubikame::KamenRiderOOO
+      => Rubikame::KamenRiderOOO
+      irb(main):003:0> Rubikame::KamenRiderOOO.new.rider_kick_power
+      => 16895.0
+
 You can get the power of kamen rider !
 
 ## Development
