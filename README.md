@@ -16,6 +16,17 @@ Or install it yourself as:
 
     $ gem install rubikame
 
+## Usage
+
+      irb(main):005:0> Rubikame::KamenRiderDouble
+      => Rubikame::KamenRiderDouble
+      irb(main):006:0> Rubikame::KamenRiderDouble.new
+      => #<Rubikame::KamenRiderDouble:0x00007f95700da130>
+      irb(main):007:0> Rubikame::KamenRiderDouble.new.rider_kick_power
+      => 16648.7
+
+You can get the power of kamen rider !
+
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. Then, run `bundle exec rspec` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
