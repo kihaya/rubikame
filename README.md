@@ -25,6 +25,13 @@ Or install it yourself as:
       irb(main):007:0> Rubikame::KamenRiderDouble.new.rider_kick_power
       => 16648.7
 
+      irb(main):008:0> ダブル = Rubikame::C仮面ライダーダブルサイクロンジョーカー.new
+      => #<Rubikame::C仮面ライダーダブルサイクロンジョーカー:0x00007fa08817b760>
+      irb(main):009:0> ダブル.名前
+      => "仮面ライダーダブルサイクロンジョーカー"
+      irb(main):010:0> ダブル.パンチ力
+      => 2.5
+
       irb(main):002:0> Rubikame::KamenRiderOOO
       => Rubikame::KamenRiderOOO
       irb(main):003:0> Rubikame::KamenRiderOOO.new.rider_kick_power
