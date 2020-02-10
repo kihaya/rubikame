@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["kihayas@gmail.com"]
 
   spec.summary       = "Kamenrider in ruby"
-  spec.description   = "This gem generate LGTM photo from your input."
+  spec.description   = "Ruby implementation of kamenrider"
   spec.homepage      = "https://github.com/kihaya/rubikame"
   spec.license       = "MIT"
 
